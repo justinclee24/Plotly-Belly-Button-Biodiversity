@@ -1,2 +1,4 @@
 # Plotly Belly Button Biodiversity
 The purpose of this analysis is to allow participants of the research done by Improbable Beef, a food startup attempting to create the newest variation of a plant-based burger including other microbiological species, to access the information found on an easy-to-use web page. One form of bacteria researchers potentially believe can resemble the taste of a traditional burger is found in the human belly button. Therefore, when they have found a useable bacteria, participants can check out the web app created to find their ID and see if the bacteria found in their belly button is a match based on the given bubble/bar chart as well as a gauge chart showing their wash rate.
+
+<img width="842" alt="Screen Shot 2021-10-15 at 3 25 28 PM" src="https://user-images.githubusercontent.com/85330159/137555333-554bd6cc-5bec-4daa-8774-c3bb8c2116c4.png">
